@@ -11,6 +11,8 @@
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Osva5;I+am+a+Computer+Engineering+student;"></a>
 </p>
 
+
+
 ---
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
@@ -22,7 +24,7 @@
 - ⚡ I'm a Computer Engineering student currently learning the fundamentals of the field. You can find many of my programming assignments here on GitHub, which you’re welcome to explore as references. In my free time, I enjoy playing sports.
 
 <br>
-![Profile views](https://komarev.com/ghpvc/?username=Osva5&color=brightgreen)
+
 <br>
 <br>
 <br>
@@ -37,6 +39,7 @@
 <br>
 <br>
 <br>
+
 
 ---
 
@@ -82,5 +85,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Osva5&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+![Profile views](https://komarev.com/ghpvc/?username=Osva5&color=brightgreen)
+
 
 
