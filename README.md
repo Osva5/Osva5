@@ -44,7 +44,8 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=dt77073vnmeze5omeb699osax&cover_image=true&theme=default)](https://open.spotify.com/user/dt77073vnmeze5omeb699osax)
+![Spotify](https://novatorem-kappa-ebon.vercel.app/)
+
 
 ---
 
